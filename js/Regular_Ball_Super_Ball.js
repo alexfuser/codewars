@@ -21,3 +21,10 @@ var Ball = function(ballType) {
   
 };
 
+//con una condicion ternaria
+// var Ball = function(ballType) {
+//   // your code goes here
+//     ballType === undefined ? this.ballType = "regular" : this.ballType=ballType;
+  
+// };
+
