@@ -29,3 +29,4 @@ function gooseFilter (birds) {
 var birds = ["Mallard", "Hook Bill", "African", "Crested", "Pilgrim", "Toulouse", "Blue Swedish"];
 
 gooseFilter(birds);
+
